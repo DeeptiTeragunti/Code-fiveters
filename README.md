@@ -31,8 +31,7 @@ Some of the negligence caused are overbuying Groceries as there are Sales on unu
 - # The idea:
 Food waste remainder application is the new norm. Its essential for every home.  From the user's point of view we provide an interface to calculate the amount of food/groceries being wasted for not noticing at the right time. We provide a platform the user to attach the grocery receipt or items which are left over which leads to a solution which analyzes the image and gives a detailed analysis of the quantity of food which was wasted in terms of money and a quick remainder to aler the user that the grocery would go bad in some days based on the shelf life.. It also recommends some of the recipies which can be done with the leftover food instead of wasting it.
 # ![Architecture Diagram](./images/architecture-dgrm.png)
-#  Demo Video 
-Part 1
+#  Demo Video
 [![Watch the video!Click here](./images/11.jpg)](https://www.youtube.com/watch?v=6wY_BCGnN8I)
 
 Part 2
@@ -78,7 +77,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
     <td align="center"><a href="https://github.com/ShejalShankar/shej28"><br /><sub><b>Shejal Shankar</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/DeeptiTeragunti"><br /><sub><b>Deepti Teragunti</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/Rakshitha-G-R"><br /><sub><b>Rakshita gr</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/hegdesahana"><<br /><sub><b>Sahana Hegde</sub></a><br /></td>
+     <td align="center"><a href="https://github.com/hegdesahana"><br /><sub><b>Sahana Hegde</sub></a><br /></td>
     
 ## License
 
