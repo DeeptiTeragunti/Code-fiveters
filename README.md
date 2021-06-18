@@ -30,6 +30,7 @@ Some of the negligence caused are overbuying Groceries as there are Sales on unu
 
 - # The idea:
 Food waste remainder application is the new norm. Its essential for every home.  From the user's point of view we provide an interface to calculate the amount of food/groceries being wasted for not noticing at the right time. We provide a platform the user to attach the grocery receipt or items which are left over which leads to a solution which analyzes the image and gives a detailed analysis of the quantity of food which was wasted in terms of money and a quick remainder to aler the user that the grocery would go bad in some days based on the shelf life.. It also recommends some of the recipies which can be done with the leftover food instead of wasting it.
+# ![Architecture](./images/architecture-dgrm.jpg)
 
 # Long Description
 [More detail is available here](./docs/DESCRIPTION.md)
@@ -53,7 +54,7 @@ In this section you add the instructions to run your project on your local machi
 - Run the ipynb file on a juptyter notebook
 ## Built with
 
-- [IBM CloudFoundry](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+- [IBM Cloud Pak](https://cloud.ibm.com/catalog?search=cloudant#search_results) - AI-powered software that can help organizations build, modernize, and manage applications securely across any cloud
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
 - [IBM Watson Studio]
 ## Contributing
