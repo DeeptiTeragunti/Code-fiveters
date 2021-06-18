@@ -33,7 +33,7 @@ Food waste remainder application is the new norm. Its essential for every home. 
 # ![Architecture Diagram](./images/architecture-dgrm.png)
 
 # Long Description
-[More detail is available here](./DESCRIPTION.md)
+![More detail is available here](DESCRIPTION.md)
 
 ### Project Roadmap
 The project currently does the following things:
@@ -60,6 +60,16 @@ In this section you add the instructions to run your project on your local machi
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ShejalShankar/shej28"><br /><sub><b>Shejal Shankar</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/DeeptiTeragunti"><br /><sub><b>Deepti Teragunti</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/Rakshitha-G-R"><br /><sub><b>Rakshita gr</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/hegdesahana"><<br /><sub><<b>Sahana Hegde</sub></a><br /></td>
+    
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
