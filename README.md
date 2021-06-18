@@ -33,7 +33,8 @@ Food waste remainder application is the new norm. Its essential for every home. 
 # ![Architecture Diagram](./images/architecture-dgrm.png)
 #  Demo Video 
 Part 1
-[![Watch the video](./images/11.jpg)](https://www.youtube.com/watch?v=6wY_BCGnN8I)
+[![Watch the video!Click here](./images/11.jpg)](https://www.youtube.com/watch?v=6wY_BCGnN8I)
+
 Part 2
 [![Watch the video](https://www.youtube.com/watch?v=7Stw3wOFOlM)
 
