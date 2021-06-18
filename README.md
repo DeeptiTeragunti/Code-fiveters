@@ -1,5 +1,5 @@
 # Code-fiveters
-WIT-Hackathin-idea-submission
+WIT-Hackathon-idea-submission
 # Long Description
 The world is not on track to achieve Zero Hunger by 2030. If recent trends continue, the number of people affected by hunger would surpass 840 million by 2030.Food waste is a growing problem with increasing populations and issues through the value chain. It's estimated a staggering 32% of the food that we produce in the world goes to waste.Waste such as food scraps and yard waste usually easily ends up in landfills.We aim to reduce food waste with our idea and create a sustainable environment .
 
