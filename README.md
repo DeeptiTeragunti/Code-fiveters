@@ -35,7 +35,7 @@ Food waste remainder application is the new norm. Its essential for every home. 
 Part 1
 [![Watch the video](./images/11.jpg)](https://www.youtube.com/watch?v=6wY_BCGnN8I)
 Part 2
-[![Watch the video](./images/11.jpg)](https://www.youtube.com/watch?v=7Stw3wOFOlM)
+[![Watch the video](https://www.youtube.com/watch?v=7Stw3wOFOlM)
 
 
 
