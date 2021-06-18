@@ -33,7 +33,7 @@ Food waste remainder application is the new norm. Its essential for every home. 
 # ![Architecture Diagram](./images/architecture-dgrm.png)
 
 # Long Description
-[More detail is available here](./docs/DESCRIPTION.md)
+[More detail is available here](./DESCRIPTION.md)
 
 ### Project Roadmap
 The project currently does the following things:
@@ -64,6 +64,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Based on
