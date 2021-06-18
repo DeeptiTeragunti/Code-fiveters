@@ -33,7 +33,7 @@ Food waste remainder application is the new norm. Its essential for every home. 
 # ![Architecture Diagram](./images/architecture-dgrm.png)
 
 # Long Description
-![More detail is available here](DESCRIPTION.md)
+![More detail is available here](./DESCRIPTION.md)
 
 ### Project Roadmap
 The project currently does the following things:
@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
     <td align="center"><a href="https://github.com/ShejalShankar/shej28"><br /><sub><b>Shejal Shankar</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/DeeptiTeragunti"><br /><sub><b>Deepti Teragunti</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/Rakshitha-G-R"><br /><sub><b>Rakshita gr</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/hegdesahana"><<br /><sub><<b>Sahana Hegde</sub></a><br /></td>
+     <td align="center"><a href="https://github.com/hegdesahana"><<br /><sub><b>Sahana Hegde</sub></a><br /></td>
     
 ## License
 
